@@ -1,0 +1,2 @@
+2022-05-26 11:36:10,752 WARN paquete.PruebaLogs [http-nio-8080-exec-3] warn de prueba
+2022-05-26 11:36:10,756 ERROR paquete.PruebaLogs [http-nio-8080-exec-3] error de prueba
